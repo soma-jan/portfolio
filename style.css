@@ -1,0 +1,299 @@
+body
+{
+  background-color: #FFFFF0;
+  font-family: "Arial Black", Helvetica, sans-serif;
+  color: black
+  height:500px;
+
+
+}
+
+.header
+{
+    border:none;
+    height:150px;
+    width: 100%;
+    margin:0;
+
+
+
+}
+.Nameboard
+{
+  font-family: "Noticia Text";
+  color :#766F6F;
+  padding:20px 20px 20px 200px
+
+
+
+}
+#Name
+{
+  margin-left: 20px;
+    line-height: 0px;
+    display: block;
+}
+#Desig
+{
+  margin-left: 20px;
+  float: left;
+  padding-top: 0px;
+    line-height: 0px;
+    display:block;
+}
+#menu
+{
+  width: auto;
+  font-family: "Noticia Text";
+  color: #5D5D5D;
+  display: block;
+
+
+}
+
+ul {
+
+  margin: 0px 0px 0px 230px;
+  padding: 2px 2px 2px 2px;
+  overflow: hidden;
+  background-color: none;
+  display: inline-block;
+  float: left;
+}
+
+li {
+  float: left;
+  display:inline-block;
+  padding-right: 50px;
+  font-family:"Noticia Text",serif;
+  font-size:20px;
+  font-weight: bold;
+
+}
+li a {
+
+  color:#5D5D5D ;
+  text-align: center;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: none;
+  color:#76D7C4;
+
+}
+
+.active {
+  background-color: none;
+  color: #76D7C4;
+
+}
+.profile
+{
+
+width: 350px;
+height: 350px;
+margin: 20px 20px 20px 200px;
+padding: 2px 2px 2px 2px;
+display: block;
+
+
+
+}
+#profileimg
+{
+border-radius: 50%;
+float: left;
+width: 350px;
+}
+
+.Tag
+{
+  color: #5D5D5D;
+  font-size: 60px;
+  font-weight: bold;
+  font-family: "Noticia Text";
+  margin: 20px 20px 20px 0px;
+  padding: 2px 2px 2px 2px;
+
+  display: block;
+position: relative;
+
+
+}
+.profile,.Tag
+{
+display: block;
+float: left;
+
+
+}
+.container
+{
+  float : left;
+
+  height: 430px;
+  width: 600px;
+  width: 600px;
+  position: absolute;
+  margin-left: 600px;
+  display: block;
+
+}
+
+.btn-group
+{
+  width: 450px;
+  height: 100px;
+position: absolute;
+top: 200px;
+
+
+}
+#button1
+{
+border-radius: 50%;
+width: 120px;
+height: 120px;
+font-family:"Open Sans",sans-serif;
+font-size: 15px;
+border: solid;
+background-color: #E7517C;
+border: none;
+}
+#button2
+{
+border-radius: 50%;
+width: 120px;
+height: 120px;
+font-family:"Open Sans",sans-serif;
+font-size: 15px;
+background-color: #76D7C4;
+border: none;
+}
+#button3
+{
+border-radius: 50%;
+width: 120px;
+height: 120px;
+font-family:"Open Sans",sans-serif;
+font-size: 15px;
+background-color: #f7e305;
+border: none;
+}
+.details
+{
+  font-family: "Open Sans",serif;
+  font-size: 15px;
+  padding: 2px 2px 2px 2px;
+  width: auto;
+
+  position: absolute;
+  bottom: 0px;
+
+
+}
+
+
+.footer
+{
+
+    background-color:#E7517C;
+    position: fixed;
+    left: 0;
+    height: 50px;
+    bottom: 5px;
+    margin-top: 10px;
+    width: 100%;
+
+
+
+
+}
+#info
+{
+  color:black;
+  font-family:"Open Sans",serif;
+  font-size: 16px;
+  text-align: center;
+  margin-left: 200px;
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+
+}
+.box{
+  display: inline-block;
+  padding-left: 20px;
+  margin-left:200px;
+}
+#sub_head
+{
+  width:400px;
+  height: auto;
+  font-family: "Calisto MT";
+  font-size: 35PX;
+  color:#766F6F;
+  margin-top: 0PX;
+  padding: 0px 20px 20px 0px;
+  position: absolute;
+
+
+}
+.body
+{
+  
+  margin :auto;
+}
+
+
+
+
+
+.form
+{
+width: 400px;
+
+
+}
+#form
+{
+  position: relative;
+  left: 400px;
+  background-color:#E7517C;
+  font-family: "Open Sans",sans-serif;
+  font-size: 15PX;
+  color:white;
+  margin-top: 50PX;
+  padding: 20px 20px 20px 20px;
+
+}
+#idrow
+{
+
+line-height:25px;
+
+}
+
+#button
+{
+  width:50PX;
+  height:10px;
+}
+#idrow1
+{
+
+  color: black;
+  padding-bottom: 50px;
+  line-height: 50px;
+}
+.Resume
+{
+  margin-left: 200px;
+  height: auto;
+  float: left;
+  width: 80%;
+  margin-top: 120px;
+}
+#pdf{
+  width: 100%;
+}
